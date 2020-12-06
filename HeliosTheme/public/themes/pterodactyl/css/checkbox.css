@@ -41,7 +41,7 @@
     margin-left: -20px;
     border: 1px solid #cccccc;
     border-radius: 3px;
-    background-color: rgba(191, 79, 0, 0.24);
+    background-color: rgba(14, 58, 20, 0.63);
     -webkit-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
     -o-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
     transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
@@ -137,7 +137,7 @@
     margin-left: -20px;
     border: 1px solid #cccccc;
     border-radius: 50%;
-    background-color: rgba(191, 79, 0, 0.24);
+    background-color: rgba(14, 58, 20, 0.63);
     -webkit-transition: border 0.15s ease-in-out;
     -o-transition: border 0.15s ease-in-out;
     transition: border 0.15s ease-in-out;
