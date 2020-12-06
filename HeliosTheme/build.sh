@@ -23,7 +23,7 @@ if [ ! -f "artisan" ]; then
     echo "Downloading the Theme you picked"
     mkdir -p tempdown && cd tempdown && git clone https://github.com/LegendNetwork/PanelTheme.git .
     cp -r HeliosTheme/public ..
-    
+
 
     echo "Files have been copied over!"
     sleep 2
